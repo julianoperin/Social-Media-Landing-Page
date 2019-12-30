@@ -8,9 +8,10 @@ body {
  }
 
 .navbar {
-  border-bottom: #fff 3px solid;
+  border-bottom: #fff 4px solid;
   opacity: 0.8 !important;
   background: #00CED1;
+  color: #fff;
 }
 .card-body {
   background: #00CED1;
@@ -73,4 +74,12 @@ body {
 }
 .footerbg {
   background: #00CED1;
+}
+.fotterlogo {
+  font-size: 25px;
+}
+
+.logoname {
+  font-size: 25px;
+  letter-spacing: 3px;
 }
